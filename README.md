@@ -10,3 +10,9 @@
 7. Debugger Integration
 8. Test Runner
 
+
+##### Screenshot
+
+<img src="https://raw.githubusercontent.com/x-sushant-x/neovim-setup/refs/heads/main/Screenshot.png"/>
+
+##### 👋 PRs are welcome. 
